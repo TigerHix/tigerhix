@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-This is Tiger. First of all, check out [Cytoid](https://github.com/Cytoid/cytoid). Second, I haven't finished writing this bio yet, so... check back later.
+This is Tiger. First of all, check out [Warudo](https://warudo.app/). Second, check out [Cytoid](https://github.com/Cytoid/cytoid).
+
+If you want to constantly hear my ramblings, follow me on [Twitter](https://twitter.com/TigerHixTang).
 
 <!--
 **TigerHix/tigerhix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
